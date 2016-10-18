@@ -3,9 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
+	Jason	
+ THANKS
 
     <name>
 
