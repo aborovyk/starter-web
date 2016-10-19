@@ -12,6 +12,7 @@ please fork this repo.
 
 ## Comments
 comments
+comments more on feature
 ##Copyright
 
 2016 Git training
